@@ -29,9 +29,9 @@ A functional, easy-mode solution to FCC's Drum machine challenge that was fun to
 - When sound plays, a display shows what animal it is
 
 
-## Project 4 - [PocketsDK's website](https://pocketsdk.org)
+## Project 4 - [PocketsDK's website](https://github.com/KrisztinaPap/PDK-Home)
 
-A custom website built for PocketsDK (PDK), a YouTube content creator.
+A [custom website](https://pocketsdk.org) built for PocketsDK (PDK), a YouTube content creator.
 
 - Fully responsive
 - Minimalist design
