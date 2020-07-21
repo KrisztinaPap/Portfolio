@@ -16,7 +16,9 @@
 - Basic Python, R, and Jupyter Notebooks for Data Science
 - Basic Adobe XD, InVision, and Sketch for User Experience Design
 
-## Project 1 - [Random Quote Machine](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine)
+## Example Projects:
+
+### Project 1 - [Random Quote Machine](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine)
 
 Passes FreeCodeCamp's Random Quote Machine tests
 
@@ -26,7 +28,7 @@ Passes FreeCodeCamp's Random Quote Machine tests
 - 'Tweet' button creates a new Twitter message with the text "My new favourite quote:" and the curret quote and author, ready to be sent out by the user
 
 
-## Project 2 - [Random Quote Machine #2](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine_2)
+### Project 2 - [Random Quote Machine #2](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine_2)
 
 Functional but does not pass FreeCodeCamp's Random Quote Machine tests (fails 1)
 
@@ -36,7 +38,7 @@ Functional but does not pass FreeCodeCamp's Random Quote Machine tests (fails 1)
 - 'Tweet' button creates a new Twitter message with the text "My new favourite quote:" and the curret quote and author, ready to be sent out by the user
 
 
-## Project 3 - [Drum Machine](https://github.com/KrisztinaPap/FCC_DrumMachine)
+### Project 3 - [Drum Machine](https://github.com/KrisztinaPap/FCC_DrumMachine)
 
 A functional, easy-mode solution to FCC's Drum machine challenge that was fun to code but doesn't pass the tests. Also, it uses animal sounds instead of drums.
 
@@ -45,7 +47,7 @@ A functional, easy-mode solution to FCC's Drum machine challenge that was fun to
 - When sound plays, a display shows what animal it is
 
 
-## Project 4 - [PocketsDK's website](https://github.com/KrisztinaPap/PDK-Home)
+### Project 4 - [PocketsDK's website](https://github.com/KrisztinaPap/PDK-Home)
 
 A [custom website](https://pocketsdk.org) built for PocketsDK (PDK), a YouTube content creator.
 
