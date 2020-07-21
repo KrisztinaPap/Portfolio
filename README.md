@@ -33,6 +33,8 @@ A functional, easy-mode solution to FCC's Drum machine challenge that was fun to
 
 A custom website built for PocketsDK (PDK), a YouTube content creator.
 
+![PDK home page - mobile screen](https://github.com/KrisztinaPap/PDK-Home/blob/master/assets/PDK-screenshot2.PNG "PDK home page - mobile screen")
+
 - Fully responsive
 - Minimalist design
 - Social icons from Fontawesome
