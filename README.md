@@ -1,4 +1,4 @@
-# Krisztina Pap's portfolio
+# Krisztina Pap's Portfolio
 
 ## Project 1 - [Random Quote Machine](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine)
 
