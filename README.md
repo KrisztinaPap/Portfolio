@@ -1,5 +1,21 @@
 # Krisztina Pap's Portfolio
 
+## Technologies:
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap4
+- JQuery
+- React.js
+- TailwindCSS
+- WordPress
+- Sass
+- npm
+- Git/GitHub
+
+- Basic Python, R, and Jupyter Notebooks for Data Science
+- Basic Adobe XD, InVision, and Sketch for User Experience Design
+
 ## Project 1 - [Random Quote Machine](https://github.com/KrisztinaPap/FCC_RandomQuoteMachine)
 
 Passes FreeCodeCamp's Random Quote Machine tests
