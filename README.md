@@ -59,7 +59,15 @@ A [custom website](https://pocketsdk.org) built for PocketsDK (PDK), a YouTube c
 - Resources will be added as client provides them
 - Deployed with Netlify
 
+### Project 5 - [d3 Bar Chart Project](https://github.com/KrisztinaPap/fcc-d3-bar-chart-proj)
 
+A bar chart of The United States' GDP from about 1950 to 2015 created using d3.js to beat FreeCodeCamp's coding challenge.
+
+- Utilizes HTML5, CSS3, d3.js, and JavaScript
+- Shows a bar chart of the United States' GDP over a period of time (~1950-2015)
+- Dataset is in a GitHub JSON file
+- The date and GDP amount display under the chart on mouse-over
+- Utilizes Google Fonts
 
 
 
