@@ -69,5 +69,12 @@ A bar chart of The United States' GDP from about 1950 to 2015 created using d3.j
 - The date and GDP amount display under the chart on mouse-over
 - Utilizes Google Fonts
 
+### Project 6 - [d3 Scatterplot Project](https://github.com/KrisztinaPap/fcc-d3-scatterplot-proj)
 
+A scatterplot of doping in professional bicycle racing using d3.js to beat FreeCodeCamp's coding challenge.  
+
+- Utilizes HTML5, CSS3, d3.js, and JavaScript
+- Shows a scatterplot of Doping in Professional Bicycle Racing
+- Dataset is in a GitHub JSON file
+- Name and doping comment display on mouse-over
 
