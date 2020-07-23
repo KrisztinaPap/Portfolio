@@ -4,9 +4,10 @@
 - HTML5
 - CSS3
 - JavaScript
+- d3.js
+- React.js
 - Bootstrap4
 - JQuery
-- React.js
 - TailwindCSS
 - WordPress
 - Sass
