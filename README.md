@@ -79,3 +79,8 @@ A scatterplot of doping in professional bicycle racing using d3.js to beat FreeC
 - Dataset is in a GitHub JSON file
 - Name and doping comment display on mouse-over
 
+### Project 7 - [Markdown Previewer Project](https://github.com/KrisztinaPap/fcc-markdown-previewer-proj)
+
+A solution to FreeCodeCamp's Markdown Previewer front-end project using JQuery.
+
+- Utilizes HTML5, CSS3, JQuery, Bootstrap, JavaScript, and the Markdown library.
